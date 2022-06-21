@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enx-dev
 - 👀 I’m interested in Frontend development and UI/UX design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me enx.co21@gmail.com
 
