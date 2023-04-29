@@ -7,7 +7,7 @@ Frontend Deverloper
 I am a self-taught developer for 2 years, looking to collaborate on open source and Internships, scholarships are also welcomed😊😊
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfoilo](http://https://portfollio-one.vercel.app/)
+* 🖥️  See my portfolio at [My Portfoilo](http://https://enx.vercel.app/)
 * ✉️  You can contact me at [enx.co21@gmail.com](mailto:enx.co21@gmail.com)
 * 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on startup projects
